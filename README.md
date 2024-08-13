@@ -8,5 +8,5 @@ To run a program run the following commands
 now run the following commands 
 
 #
-`go mod maps`
+`go mod init maps`
 `go run main.go`

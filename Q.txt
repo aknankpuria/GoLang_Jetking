@@ -26,4 +26,4 @@ Ans -> Map in the Golang is key value pair data type. we can store the values th
 
     ## For better understanding i have added the snippshots in the snippshots folder 
 
-    # to run the program open the maps folder in integrated terminal and run command 'go mod maps' it will  generate a mod file than run a command  'go run main.go'
+    # to run the program open the maps folder in integrated terminal and run command 'go mod init maps' it will  generate a mod file than run a command  'go run main.go'
