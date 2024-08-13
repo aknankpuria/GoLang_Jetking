@@ -1,0 +1,27 @@
+Q -> Write a Golang program that performs the different map operations.
+
+Ans -> Map in the Golang is key value pair data type. we can store the values that are associated with certain key. 
+
+
+       we have done the practical in file '/maps/main.go' . you can reffer to that and explanation is given below :
+
+
+       1. Creating a map : we created a empty map using "make() " function . key type is string and value type is integer .
+
+       2. Adding elements : we added elements to the map by assigning a value to a key like 'stdGrades["urmal"] = 93'
+
+       3.Accessing the elements : We accessed the elements using for loop.
+
+       4. Accessing particular element : we accessed particular element using key.
+
+       5.Updaring the element : we updated the element value by its key like 'stdGrades["urmal"] = 100'
+
+       6. Deleting the element : we can delete the element like 'delete(stdGrades, "mangesh")'
+
+       7. checking if exist in the map 
+
+       8. checking length of the map using 'len()' function.
+
+
+
+    ## For better understanding i have added the snippshots in the snippshots folder 
